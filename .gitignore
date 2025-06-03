@@ -1,0 +1,15 @@
+# Node modules (cả frontend và backend)
+frontend/node_modules/
+backend/node_modules/
+
+# Thư mục build React
+frontend/build/
+
+# File môi trường (chứa mật khẩu, token)
+*.env
+backend/.env
+frontend/.env
+
+# Các file IDE, hệ điều hành
+.DS_Store
+.vscode/
